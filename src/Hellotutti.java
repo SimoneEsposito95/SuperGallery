@@ -4,4 +4,3 @@ public class Hellotutti {
         System.out.println("hello my big friend");
     }
 }
-
