@@ -1,6 +1,6 @@
 public class Hellotutti {
     public static void main(String[] args) {
-        System.out.println("Hello Kenan!");
+        System.out.println("Hello Kenan 2.0!");
     }
 }
 
