@@ -9,5 +9,8 @@
         <module name="GreatGallery" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GreatGallery" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
